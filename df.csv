@@ -1,0 +1,6 @@
+,sens,terminus,infotrafic,temps,dernierDepart,tempsReel,ligne,arret
+0,1,Coutancière,False,2mn,false,true,"{'numLigne': '86', 'typeLigne': 3}",{'codeArret': 'BLAV1'}
+1,2,Bout des Pavés,False,15mn,false,true,"{'numLigne': '86', 'typeLigne': 3}",{'codeArret': 'BLAV2'}
+2,1,Coutancière,False,,false,false,"{'numLigne': '116', 'typeLigne': 3}",{'codeArret': 'BLAV1'}
+3,2,Cholière,False,,false,false,"{'numLigne': '116', 'typeLigne': 3}",{'codeArret': 'BLAV2'}
+4,1,Coutancière,False,,false,false,"{'numLigne': '126', 'typeLigne': 3}",{'codeArret': 'BLAV1'}
